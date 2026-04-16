@@ -11,5 +11,6 @@ I recently completed a dataset anal This dataset and concepts learned under the 
 This project helped me strengthen my practical skills in data analysis and improved my understanding of working with datasets.
 
 📄 Check out the full project in the attached document / link below. 
+    https://github.com/kkumar2804/EDA-Titanic-Dataset/tree/main
 
 #DataAnalysis #Python #JupyterNotebook #Learning #Projects #EDA
